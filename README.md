@@ -4,6 +4,19 @@
 
 ## 已推送文章列表
 
+###<font color ="#FF6347">Android TV开发总结</font>
+
+#####[\[\[已推送\]Android TV开发总结（一）构建一个TV app前要知道的事儿\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484036&idx=1&sn=f3223871d41cc9aca59741cbdb7c9568&chksm=eae1f7d6dd967ec0fba0f36fa5c5d3b840e4a912b7f17d243e0ce0619722bdb5678575d31b70#rd)
+---
+#####[\[\[已推送\]Android TV开发总结（二）构建一个TV Metro界面（仿泰捷视频TV版）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484039&idx=1&sn=814ac3d3885e7caa4f9f30eaef2b9e19&chksm=eae1f7d5dd967ec3131ae348ab10afef047a8168d69d0e904cd284db7e9379cfd27895493445#rd)
+---
+#####[\[\[已推送\]Android TV开发总结（三）构建一个TV app的焦点控制及遇到的坑\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484052&idx=1&sn=ed1e55504b35e05ece405047d93407d3&chksm=eae1f7c6dd967ed0b4e2c148be3af88cd95c8079b1bffcd6af33da40b49d4f68bbf728f372f9#rd)
+---
+#####[\[\[已推送\]Android TV开发总结（四）通过RecycleView构建一个TV app列表页（仿腾讯视频TV版）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484066&idx=1&sn=77a4c76e818f9dff70ee4d149a12b8ae&chksm=eae1f7f0dd967ee648b359bccbbb92c4c9737bb640e96e9528d72737d8533841315d22694fd9#rd)
+---
+#####[\[\[已推送\]Android TV开发总结（五）TV上屏幕适配总结\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484069&idx=1&sn=f5219f36cbb9c69e81c2ae02e240ed51&chksm=eae1f7f7dd967ee1a01b3b4f69ebf85f8a796b2ea3f4bdc279a2aa2374ae365ab4a98b32fbb3#rd)
+---
+
 
 ###<font color ="#FF6347">Android MultiMedia总结</font>
 
