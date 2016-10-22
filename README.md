@@ -21,6 +21,22 @@
 ---
 #####[\[\[已推送\]Android Multimedia框架总结（七）C++中MediaPlayer的C/S架构补充及MediaService介绍\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483855&idx=1&sn=7d538344fd94ee81b76a0b3b0910c735#rd)
 ---
+#####[\[\[已推送\]Android Multimedia框架总结（八）Stagefright框架之AwesomePlayer及数据解析器\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483858&idx=1&sn=2e9b89ab14c67262cf185e36536a4936#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（九）Stagefright框架之数据处理及到OMXCodec过程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483876&idx=1&sn=f425e70a92d9842352a0a46bf0e25d7d#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（十）Stagefright框架之音视频输出过程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483889&idx=1&sn=ac5313ced40d980c6cdac609a2aa5664#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（十一）CodeC部分之AwesomePlayer到OMX服务\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483994&idx=1&sn=2017d76eda6acfabe1885e89b21e7cbc&chksm=eae1f708dd967e1e94551e20ad066a289b51b6e9291fe0afc51d6142f99279e6f2cd9a2d8095#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（十二）CodeC部分之OMXCodec与OMX事件回调流程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484011&idx=2&sn=1ec86682a56b4b25ce193983f9d7b54f&chksm=eae1f739dd967e2faef91ef0fa0a276db90507087fd16af37db8039fd83f58a69e0e10b198cd#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（十三）CodeC部分之OpenMAX框架初识及接口与适配层实现\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484012&idx=1&sn=9d4d8334cc4a354c348c122f6d5c47c8&chksm=eae1f73edd967e2879efee2b5499e3608946c7c22f8e9d2485a0cda40bb68b2e86d1fe9dad59#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（十四）Camera框架初识及自定义相机案例\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484017&idx=1&sn=aada893832ba778a04a7eb8ab8c28ef4&chksm=eae1f723dd967e35ea21a303b61c9ae0b09a480de539a1de874938b1613ca55b1985beaa8df9#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（十五）Camera框架之Camera2补充\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484021&idx=1&sn=08aa41a5d6de8f09c65571b1422af934&chksm=eae1f727dd967e3190548717cf857f9446183d5a7f80de0e12823f06363f5d3aa52d278d4603#rd)
+---
 
 
 ###<font color ="#FF6347">插件总结</font>
