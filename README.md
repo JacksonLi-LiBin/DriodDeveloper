@@ -4,6 +4,25 @@
 
 ## 已推送文章列表
 
+
+###<font color ="#FF6347">Android MultiMedia总结</font>
+
+#####[\[\[已推送\]Android Multimedia框架总结（一）MediaPlayer介绍之状态图及生命周期\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483822&idx=1&sn=79f88096435deda9ac23219a2748e8e0#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（二）MediaPlayer框架及播放网络视频案例\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483825&idx=1&sn=fe8ff9edcf5a8acf5ddff975fc288faf#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（三）MediaPlayer中创建到setDataSource过程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483829&idx=1&sn=de135a50765555f0f427021d73ae611f#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（四）MediaPlayer从Java层到C++层类关系及prepare及之后其他过程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483838&idx=1&sn=53c44779dfc482c5b2db2da0d2751f84#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（五）多媒体基础概念\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483846&idx=1&sn=7644d1dddf274cd4ffa413a4f2db7cbe#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（六）C++中MediaPlayer的C/S架构\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483849&idx=1&sn=4ab514bc3a7f3aabcb98b3b0ad6449bf#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（七）C++中MediaPlayer的C/S架构补充及MediaService介绍\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483855&idx=1&sn=7d538344fd94ee81b76a0b3b0910c735#rd)
+---
+
+
 ###<font color ="#FF6347">插件总结</font>
 
 #####[\[\[已推送\]插件开发之360 DroidPlugin源码分析（五）Service预注册占坑\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483792&idx=1&sn=9abb3b16f46b65608bf71c52a9fce9c0#rd)
