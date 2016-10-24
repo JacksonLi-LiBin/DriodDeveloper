@@ -4,6 +4,24 @@
 
 ## 已推送文章列表
 
+###<font color ="#FF6347">手把手系列</font>
+
+#####[\[\[已推送\]手把手图文并茂教你发布Android开源库\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483852&idx=1&sn=98e696df546c58f70ee67ce6e4396761#rd)
+---
+#####[\[\[已推送\]手把手图文并茂教你用Android Studio编译FFmpeg库并移植\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484013&idx=1&sn=3cfdb06c7a4f470555402459c30685df&chksm=eae1f73fdd967e2955ffc79f7cf042440a7e63a60f5650e0a4098aa78feb0566bbe0793cf7b1#rd)
+---
+
+
+###<font color ="#FF6347">Android 优化总结</font>
+
+#####[\[\[已推送\]Android app内存管理的16点建议\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484072&idx=1&sn=59f7ff77c686a0c9c2a348876513842e&chksm=eae1f7fadd967eece08a2da75dda1b1b6a428f227602540ff96d50cc9950562fd7dc766a37b9#rd)
+---
+#####[\[\[已推送\]Android性能提升之强引用、软引用、弱引用、虚引用使用\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483991&idx=2&sn=da8be49f01f1244b8a80b992cc3caa92&chksm=eae1f705dd967e13f0b42419742e622423e428b07b67052a12bacc237ebb136652df0a969588#rd)
+---
+#####[\[\[已推送\]Android应用内存泄露分析以及优化方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483923&idx=1&sn=ac68530e5731b5eceb9559529e39aa1b#rd)
+---
+
+
 ###<font color ="#FF6347">Android TV开发总结</font>
 
 #####[\[\[已推送\]Android TV开发总结（一）构建一个TV app前要知道的事儿\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484036&idx=1&sn=f3223871d41cc9aca59741cbdb7c9568&chksm=eae1f7d6dd967ec0fba0f36fa5c5d3b840e4a912b7f17d243e0ce0619722bdb5678575d31b70#rd)
