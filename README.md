@@ -4,6 +4,13 @@
 
 ## 已推送文章列表
 
+###<font color ="#FF6347">技术道路上心路总结</font>
+
+#####[\[\[已推送\]记一次360面试总结（Android）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484081&idx=1&sn=6c87dc0d5d49c70f0515170047a77dcd&chksm=eae1f7e3dd967ef57e480a7fe88d177a1ff8ede5f38fa646aa020e3aa7db27bb53d5f029b216#rd)
+---
+#####[\[\[已推送\]我工作的这两年\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484078&idx=1&sn=ed0ff7a48417ac12428173fffb26f40f&chksm=eae1f7fcdd967eeaf2af12ea141251b76673f8e56761d241bf91fde6e735caea5921918c810a#rd)
+---
+
 ###<font color ="#FF6347">手把手系列</font>
 
 #####[\[\[已推送\]手把手图文并茂教你发布Android开源库\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483852&idx=1&sn=98e696df546c58f70ee67ce6e4396761#rd)
@@ -33,6 +40,8 @@
 #####[\[\[已推送\]Android TV开发总结（四）通过RecycleView构建一个TV app列表页（仿腾讯视频TV版）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484066&idx=1&sn=77a4c76e818f9dff70ee4d149a12b8ae&chksm=eae1f7f0dd967ee648b359bccbbb92c4c9737bb640e96e9528d72737d8533841315d22694fd9#rd)
 ---
 #####[\[\[已推送\]Android TV开发总结（五）TV上屏幕适配总结\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484069&idx=1&sn=f5219f36cbb9c69e81c2ae02e240ed51&chksm=eae1f7f7dd967ee1a01b3b4f69ebf85f8a796b2ea3f4bdc279a2aa2374ae365ab4a98b32fbb3#rd)
+---
+#####[\[\[已推送\]Android TV开发总结（六）构建一个TV app的直播节目实例\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484099&idx=1&sn=ff6c8088e7b1ffbcca72919dd8676a39&chksm=eae1f791dd967e870f0d232d488c1a01ed47754ccdf68e54b4d15aa6bcebd59acbb601023159#rd)
 ---
 
 
