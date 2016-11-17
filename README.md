@@ -4,6 +4,23 @@
 
 ## 已推送文章列表
 
+#####[\[\[已推送\]Android微信支付爬坑析\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484224&idx=1&sn=e856f3bae7fc8a0f9660b29eac279ccf&chksm=eae1f612dd967f04f0a72813f1f92e466b4934b7fd2dc6a0c54f40aef16e7642c540bd09370d#rd)
+
+#####[\[\[已推送\]Android MediaCodec实现多段音视频的截取与拼接\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484195&idx=1&sn=c73f910258f46fbddd895803f2b1ea2a&chksm=eae1f671dd967f67b73d7ce6042cfb9be10cfc10448fc00c0fbe61aca834e9b09a6dca8ac056#rd)
+
+###<font color ="#FF6347">设计模式系列</font>
+
+#####[\[\[已推送\]Android架构MVC,MVP与MVVM及MVPVM对比分析\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484130&idx=2&sn=8a5010cbbffa3a677fb7ca86d0999988&chksm=eae1f7b0dd967ea61cfffc3820e82574518db6ae3be7c08768bd6ad2cf43c74b90587ad98f5b#rd)
+
+
+###<font color ="#FF6347">自定义控件系列</font>
+
+#####[\[\[已推送\]打造狂拽炫酷的主流自定义侧滑控件（仿酷狗和QQ5.0）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484113&idx=1&sn=0c0073ea9d92edc74d71832ffeac8cf6&chksm=eae1f783dd967e9561cad5fffd17fa87b6276577eea9b0b15d06a84b6afc6f1cef07fce350a7#rd)
+
+#####[\[\[已推送\]Android自定义View—刮刮卡效果\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484192&idx=1&sn=5e3d46087145f70687eacaa58990256d&chksm=eae1f672dd967f64069b65339e5bdd4bb257f75d5bf0bf0d59b798fa5d833b9a06d00e64cc42#rd)
+
+
+
 ###<font color ="#FF6347">技术道路上心路总结</font>
 
 #####[\[\[已推送\]记一次360面试总结（Android）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484081&idx=1&sn=6c87dc0d5d49c70f0515170047a77dcd&chksm=eae1f7e3dd967ef57e480a7fe88d177a1ff8ede5f38fa646aa020e3aa7db27bb53d5f029b216#rd)
@@ -26,6 +43,8 @@
 #####[\[\[已推送\]Android性能提升之强引用、软引用、弱引用、虚引用使用\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483991&idx=2&sn=da8be49f01f1244b8a80b992cc3caa92&chksm=eae1f705dd967e13f0b42419742e622423e428b07b67052a12bacc237ebb136652df0a969588#rd)
 ---
 #####[\[\[已推送\]Android应用内存泄露分析以及优化方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483923&idx=1&sn=ac68530e5731b5eceb9559529e39aa1b#rd)
+---
+#####[\[\[已推送\]Google官方 详解 Android 性能优化【史诗巨著之内存篇】\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484153&idx=1&sn=eecb8a4587354b39c03fa6e1eadae0a4&chksm=eae1f7abdd967ebd36e65a03117cd6e986bc3bd642ce9506b124904ec9c5871c466437293783#rd)
 ---
 
 
@@ -77,7 +96,14 @@
 ---
 #####[\[\[已推送\]Android Multimedia框架总结（十五）Camera框架之Camera2补充\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484021&idx=1&sn=08aa41a5d6de8f09c65571b1422af934&chksm=eae1f727dd967e3190548717cf857f9446183d5a7f80de0e12823f06363f5d3aa52d278d4603#rd)
 ---
-
+#####[\[\[已推送\]Android Multimedia框架总结（十六）Camera2框架之openCamera及session过程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484091&idx=1&sn=41b8bda154d4ccf504b11eb2bab91c5c&chksm=eae1f7e9dd967eff279729d720f9939dde9e4b815694ba2f27829634c3a0de132957945b6490#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（十七）音频开发基础知识\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484173&idx=1&sn=d1a1685e247510acfca211495a4df124&chksm=eae1f65fdd967f497f676d3111159d6bb6cc04c51e0c1e127ad06bd5a1c5a6f876bce24f43be#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（十八）Camera2框架从Java层到C++层类关系\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484204&idx=1&sn=5809aece9cdbc4a8bcb8c7500b2fd54c&chksm=eae1f67edd967f68cd330d43854786a3507dd8848cac3bc2823954412419ac414121ea5c5439#rd)
+---
+#####[\[\[已推送\]Android Multimedia框架总结（二十）MediaCodec状态图及Codec与输入/输出Buffer过程（附实例）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484227&idx=1&sn=4b6ef765f7ed21c395d073a175469f97&chksm=eae1f611dd967f07d72c9194cdd35bf16c580e38a2c73cc0df907a22059eb98980da6c6e27b8#rd)
+---
 
 ###<font color ="#FF6347">插件总结</font>
 
