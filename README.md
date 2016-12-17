@@ -4,6 +4,22 @@
 
 ## 已推送文章列表
 
+####[\[\[已推送\]16年，悲痛又收获的一年\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484300&idx=1&sn=c4a14753ba74ada9798dfdd192a5aa68&chksm=eae1f6dedd967fc804100366cee879ed6a13d4dd4cb489ada571af40ddb942a2a3ad7521b747#rd)
+
+####[\[\[已推送\]DragVideo，一种在播放视频时，可以任意拖拽的方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484292&idx=1&sn=614e959f69a6e37245ec14022ff8e7eb&chksm=eae1f6d6dd967fc0a35a8262d6f38ee7d2a628d0cb10ae6976b68040e0846a9792f9ccee642e#rd)
+
+####[\[\[已推送\]2016年未，腾讯，百度，华为，搜狗和滴滴面试题汇总\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484286&idx=1&sn=e5843fb79d8a36ab063699b5fb9a0711&chksm=eae1f62cdd967f3a576396f8402581326b835b8327ed5f20f23896fcd22c2115e77863b4115b#rd)
+
+####[\[\[已推送\]记一次重构：Android实践从MVC架构到MVP架构\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484283&idx=1&sn=755a69057a561a08cef8addf38412c5a&chksm=eae1f629dd967f3f0c5b6de34bc894609e580e1c40a3ab1e4aea0633448e158dbadbd00265c8#rd)
+
+####[\[\[已推送\]在线看Android系统源码，相见恨晚的几种方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484275&idx=1&sn=bc4f8352b63a5b6dd84de0217946050a&chksm=eae1f621dd967f37732165c0dae157fb00799cba265fb2718d0745bcd9bc79c2cde38d36d21a#rd)
+
+####[\[\[已推送\]直播项目之仿全民TV（已开源）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484270&idx=1&sn=7c2353743ab392f5898785aa02da4457&chksm=eae1f63cdd967f2af9852616f95d1d7821dd022e7a46ad87db28094f8e1561fd3fc8acf7401d#rd)
+
+####[\[\[已推送\]Android中处理崩溃异常和分析日志的两种思路\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484259&idx=1&sn=3e7361007f6d9f3b0af9e894ca0eb2d1&chksm=eae1f631dd967f278bd3ee5ae8d4f778e73ec786a058c48f1e72a5af2a75ed29ad3c0a933563#rd)
+
+####[\[\[已推送\]问题的分析与解决（培训总结）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484232&idx=1&sn=e7813036895ae9abc52cd24731dda2e7&chksm=eae1f61add967f0c4d585bd8b997d076b20ed173e6a5ba863b3a2366e17b4f2d26ca6e271f58#rd)
+
 #####[\[\[已推送\]Android微信支付爬坑析\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484224&idx=1&sn=e856f3bae7fc8a0f9660b29eac279ccf&chksm=eae1f612dd967f04f0a72813f1f92e466b4934b7fd2dc6a0c54f40aef16e7642c540bd09370d#rd)
 
 #####[\[\[已推送\]Android MediaCodec实现多段音视频的截取与拼接\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484195&idx=1&sn=c73f910258f46fbddd895803f2b1ea2a&chksm=eae1f671dd967f67b73d7ce6042cfb9be10cfc10448fc00c0fbe61aca834e9b09a6dca8ac056#rd)
@@ -104,6 +120,9 @@
 ---
 #####[\[\[已推送\]Android Multimedia框架总结（二十）MediaCodec状态图及Codec与输入/输出Buffer过程（附实例）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484227&idx=1&sn=4b6ef765f7ed21c395d073a175469f97&chksm=eae1f611dd967f07d72c9194cdd35bf16c580e38a2c73cc0df907a22059eb98980da6c6e27b8#rd)
 ---
+#####[\[\[已推送\]Android Multimedia框架总结（二十一）MediaCodec中创建到start过程(到jni部分)\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484262&idx=1&sn=4795544f6e943020c18e3320f1309f6d&chksm=eae1f634dd967f227ecee399f6149b687e157d9b9d538f9270e5712a800c87b97a50b26e5008#rd)
+---
+
 
 ###<font color ="#FF6347">插件总结</font>
 
