@@ -4,6 +4,14 @@
 
 ## 已推送文章列表
 
+####[\[\[已推送\]Android支付实践（三）之银联支付功能（客户端+服务端）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484330&idx=1&sn=08f426d03b02d9cb7f4aa453e3532b0c&chksm=eae1f6f8dd967fee4611eed7f81736979afa5f71ce81247fc0061c35da73436b8f189bc1f666#rd)
+
+####[\[\[已推送\]Android支付实践（二）之微信支付详解与Demo\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484315&idx=1&sn=4ed3293fee956a74240061df72f5e4bc&chksm=eae1f6c9dd967fdf6ac22e0facac44208594104a888da8a412b25ff7f79cfdb313375c4f7859#rd)
+
+####[\[\[已推送\]Android支付实践（一）之支付宝支付详解与demo\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484308&idx=1&sn=908afc9645d1767a6e9ecfc09179655c&chksm=eae1f6c6dd967fd0f1ab2d6b45ff3068123857b492e894389d7682a4a5d8b2bd4a959a19e266#rd)
+
+####[\[\[已推送\]Android Multimedia框架总结（二十三）MediaCodec补充及MediaMuxer引入（附案例）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484303&idx=1&sn=d73cb7ac5f21196e6d1fb48b3e8fca60&chksm=eae1f6dddd967fcb5e86c14e1cf44f601b43d9c91f96c487cf642e45647867dc792b5114d3b3#rd)
+
 ####[\[\[已推送\]16年，悲痛又收获的一年\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484300&idx=1&sn=c4a14753ba74ada9798dfdd192a5aa68&chksm=eae1f6dedd967fc804100366cee879ed6a13d4dd4cb489ada571af40ddb942a2a3ad7521b747#rd)
 
 ####[\[\[已推送\]DragVideo，一种在播放视频时，可以任意拖拽的方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484292&idx=1&sn=614e959f69a6e37245ec14022ff8e7eb&chksm=eae1f6d6dd967fc0a35a8262d6f38ee7d2a628d0cb10ae6976b68040e0846a9792f9ccee642e#rd)
