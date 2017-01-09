@@ -4,6 +4,18 @@
 
 ## 已推送文章列表
 
+####[\[\[已推送\]微信小程序—仿芒果TV（已开源）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484440&idx=1&sn=29ecc0c3ed4bc2c1db0505ba2926c41c&chksm=eae1f14add96785c1073393664f77c612144a5e27c8b1a0f358660400ba14dfa5359779dcaeb#rd)
+
+####[\[\[已推送\]一种视频预加载的方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484431&idx=1&sn=7f49fd46cd4e03600e5706432f31e59b&chksm=eae1f15ddd96784babf67115dfdfd97adf26d631609c3d37e68de745e29f434300eed1994a6a#rd)
+
+####[\[\[已推送\]史上最牛逼的音乐播放器—仿网易云音乐（已开源）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484421&idx=1&sn=be944673476f78de82ec77b24a69d180&chksm=eae1f157dd96784126ba6aa164b0e83c05cb56e082a15c2c6d110d6e5d4c37c104a8f1ff4686#rd)
+
+####[\[\[已推送\]这世上没有什么是理所当然的\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484347&idx=1&sn=4ae8a6299640ac29bf70d553d503fd7f&chksm=eae1f6e9dd967fff4cf3058bb17271025420cb8f13b1528cff9dc34310881870e152a596ec10#rd)
+
+####[\[\[已推送\]一种实现（无须root）手机截屏方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484375&idx=1&sn=16b8479621af165b6b38456b014fba4e&chksm=eae1f685dd967f93c3ceb4baf8de24cd18b86b7da622fd3d3f1232872db895fa411ed0f1cbaa#rd)
+
+####[\[\[已推送\]【独家】一种手机上实现屏幕录制成gif的方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484344&idx=1&sn=c7b41f12e12da02674ff06fe9609e40e&chksm=eae1f6eadd967ffc5a24ad30bf2183700eeda9c83d28b83f27202f28902d3196e3d931a69f21#rd)
+
 ####[\[\[已推送\]Android支付实践（三）之银联支付功能（客户端+服务端）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484330&idx=1&sn=08f426d03b02d9cb7f4aa453e3532b0c&chksm=eae1f6f8dd967fee4611eed7f81736979afa5f71ce81247fc0061c35da73436b8f189bc1f666#rd)
 
 ####[\[\[已推送\]Android支付实践（二）之微信支付详解与Demo\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484315&idx=1&sn=4ed3293fee956a74240061df72f5e4bc&chksm=eae1f6c9dd967fdf6ac22e0facac44208594104a888da8a412b25ff7f79cfdb313375c4f7859#rd)
