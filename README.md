@@ -4,6 +4,33 @@
 
 ## 已推送文章列表
 
+
+####[\[\[已推送\]连麦互动技术及其连麦调研\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484563&idx=1&sn=370f64dc896759535ec5784d3ecedcc5&chksm=eae1f1c1dd9678d7d799543f0aafe473697b19a33eb2b5b194383d2feda625a8ebe2700dc139#rd)
+
+####[\[\[已推送\]音视频开发中常见基础问题总结\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484548&idx=1&sn=651fc0d6c6b7e57e3fea5836a82addff&chksm=eae1f1d6dd9678c0a94b02c8047366485906b0da5687c34421e6e1d92216fd5ddc50d09f6d8e#rd)
+
+####[\[\[已推送\]FFmpeg开发（一）常用处理视频命令\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484545&idx=1&sn=ce26eadd84aba3c12ed3fc5678597099&chksm=eae1f1d3dd9678c5064b8945027af970008648b1e4b3542398733046f8db6c70612e6515dfad#rd)
+
+####[\[\[已推送\]如何进行网络视频截图/获取视频的缩略图\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484537&idx=1&sn=f6e1a9888fc88f54e9e5c294bc28a6d5&chksm=eae1f12bdd96783d08b55422f559a5baa1da9e9bd5653540e640d3d5c31d3edbfc7b8ceb4543#rd)
+
+####[\[\[已推送\]春节返乡，到底返的是什么？\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484532&idx=1&sn=8b2171fd7eb9444f5e89f0d7112d1bba&chksm=eae1f126dd967830456b088f32c3d827be1042ae649c72f007b3dc845fec743d2aecd3b5babd#rd)
+
+####[\[\[已推送\]勤能补拙 VS 思考补拙\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484521&idx=1&sn=9049e18bf0e3a5aefe49201ad0ce48b6&chksm=eae1f13bdd96782d49e774ced198361b549b182a33087f1c820910ccb3c2b4ec8f2c3b1546ee#rd)
+
+####[\[\[已推送\]Google Exoplayer之全面认识\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484515&idx=1&sn=9eed5d18dc8306d809c0bd89bc7ca8fa&chksm=eae1f131dd9678274a5b765ddec02b7efbee692d212157e0e975f5285c5d6c22612650e6b45a#rd)
+
+####[\[\[已推送\]使用第三方框架解耦的一种思路—简单工厂模式的运用\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484509&idx=1&sn=0cd5005e1d8137cdba01315552bf49f3&chksm=eae1f10fdd9678198a15ba0938f7dc8909a7e2c2d16c58bc4c72e70c4e8b7ff50fb6bb7f68ed#rd)
+
+####[\[\[已推送\]Android仿京东、天猫app的商品详情页的布局架构, 以及功能实现\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484504&idx=1&sn=bf94c7de5c6864170d67dd3590bbff17&chksm=eae1f10add96781c8690f655524e82e7211b9dd598051a1a891340c3a4094f8e60d3748d55c3#rd)
+
+####[\[\[已推送\]【文中有福利】是时候选择了，小程序到底要不要学？\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484479&idx=1&sn=ba4e82e04824a75673fb7090e8fbccda&chksm=eae1f16ddd96787b70e9dec86827fb7db957c4be25261a7d5867574174c4db31aeec56843e4c#rd)
+
+####[\[\[已推送\]用一年的时间，来改变自己\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484477&idx=1&sn=2f6df7a0241673d5b9141a9c0d5e2627&chksm=eae1f16fdd967879a743927ea3a5ef5505c9f29ef48207f0d2cd3cb0789c3e938d5fd8807645#rd)
+
+####[\[\[已推送\]【Android动画】仿新浪微博雷达搜索效果\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484456&idx=1&sn=6bc6a4fa9efb796d90c25501ef4be356&chksm=eae1f17add96786cd241e212ed1fc3322fa4060d236dd0864be01a6dff9cf5cfb837aea66ab6#rd)
+
+####[\[\[已推送\]一个酷炫的音乐播放界面\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484451&idx=1&sn=29d7acdc90dd68b273ce58faecd54c42&chksm=eae1f171dd9678673eb8eb7534319c0e4b599ae07a26540ee4c05b655736778cf20b64aab404#rd)
+
 ####[\[\[已推送\]微信小程序—仿芒果TV（已开源）\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484440&idx=1&sn=29ecc0c3ed4bc2c1db0505ba2926c41c&chksm=eae1f14add96785c1073393664f77c612144a5e27c8b1a0f358660400ba14dfa5359779dcaeb#rd)
 
 ####[\[\[已推送\]一种视频预加载的方案\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484431&idx=1&sn=7f49fd46cd4e03600e5706432f31e59b&chksm=eae1f15ddd96784babf67115dfdfd97adf26d631609c3d37e68de745e29f434300eed1994a6a#rd)
@@ -98,6 +125,9 @@
 ---
 #####[\[\[已推送\]Android TV开发总结（六）构建一个TV app的直播节目实例\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484099&idx=1&sn=ff6c8088e7b1ffbcca72919dd8676a39&chksm=eae1f791dd967e870f0d232d488c1a01ed47754ccdf68e54b4d15aa6bcebd59acbb601023159#rd)
 ---
+#####[\[\[已推送\]Android TV开发总结（七）构建一个TV app中的剧集列表控件\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484541&idx=1&sn=eea9438436ed751ff97cbf9ac45c97ea&chksm=eae1f12fdd967839acb872b18b709063a9e82dd836bf72b2b277bcb981d77c60d4b989ceb9ff#rd)
+---
+
 
 
 ###<font color ="#FF6347">Android MultiMedia总结</font>
