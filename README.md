@@ -2,8 +2,23 @@
 主要用于记录微信公众号所推送的所有文章，公众号：DriodDeveloper
 
 
-## 已推送文章列表
+## 已推送原创文章列表
 
+####[\[\[已推送\]Android Multimedia框架总结（二十六）利用FFmpeg进行解码直播流\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484660&idx=1&sn=462bb0c08bcc06ed57046cf2bf57a659&chksm=eae1f1a6dd9678b0ede52250daf275c5ff840de0ee55c4628509b48ec5b932890031be3c67b8#rd)
+
+####[\[\[已推送\]视频画面帧的展示控件SurfaceView及TextureView对比\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484652&idx=1&sn=3cae1ac74a02b161a1f0d7e975edae3e&chksm=eae1f1bedd9678a8a98f1dfe3e079d559d744212ee45cf14add53549fd928f908fff7620ded9#rd)
+
+####[\[\[已推送\]直播技术总结（三）ijkplayer的一些问题优化记录\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484646&idx=1&sn=eab1b93bd2165abcfaddec22bb82acc4&chksm=eae1f1b4dd9678a2b3b6fd7c5643527241972ecfc3c45525187eec908093c64575069ceb3205#rd)
+
+####[\[\[已推送\]直播技术总结（二）ijkplayer的编译到Android平台并测试解码库\]](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484582&idx=1&sn=bd006c7582158f7c534fd138da42ddce&chksm=eae1f1f4dd9678e20ad9f3dd8bd1ab047af0457285955323f0def53180c4565f6177e696ca08#rd)
+
+####[\[\[已推送\]为什么我们总觉得别人掌握的技术总是牛叉的？\]](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484579&idx=1&sn=8b6f5ee7306d0023ca29d568f1416656&chksm=eae1f1f1dd9678e7caf283ccb60c391aa4cceb6e28d1a2525f905ff322ae7f2d441ed6c6544b#rd)
+
+####[\[\[已推送\]【面试感悟】一名3年工作经验的程序员应该具备的技能\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484576&idx=1&sn=58267abe56504e07d6f0eeb15d0927fd&chksm=eae1f1f2dd9678e4818b02a6dd0de24eed09d5d1f3cfa0596d9d85a4cb0fa369b2a30d87e2c9#rd)
+
+####[\[\[已推送\]开发直播app中要了解的原理\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484573&idx=1&sn=ae7dbf3d349664f0914a6b1ca7478e15&chksm=eae1f1cfdd9678d9f13dd3220676131a09748cea9ea7fbf7c83c14cc4add0de60edc91a38fa2#rd)
+
+####[\[\[已推送\]优化工作的冰山一角，app瘦身\]](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484570&idx=1&sn=56eea8a80c79b25a2e192e0017091cc3&chksm=eae1f1c8dd9678debb68ffc78ec3b1a9fbb8f8b70107164a77e85fc16c81157cabcb384c213c#rd)
 
 ####[\[\[已推送\]连麦互动技术及其连麦调研\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484563&idx=1&sn=370f64dc896759535ec5784d3ecedcc5&chksm=eae1f1c1dd9678d7d799543f0aafe473697b19a33eb2b5b194383d2feda625a8ebe2700dc139#rd)
 
