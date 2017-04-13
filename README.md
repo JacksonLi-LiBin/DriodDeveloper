@@ -4,7 +4,7 @@
 
 ## 已推送原创文章列表
 
-####[\[\[已推送\]Android Multimedia框架总结（二十六）利用FFmpeg进行解码直播流\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484660&idx=1&sn=462bb0c08bcc06ed57046cf2bf57a659&chksm=eae1f1a6dd9678b0ede52250daf275c5ff840de0ee55c4628509b48ec5b932890031be3c67b8#rd)
+#### [\[\[已推送\]Android Multimedia框架总结（二十六）利用FFmpeg进行解码直播流\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484660&idx=1&sn=462bb0c08bcc06ed57046cf2bf57a659&chksm=eae1f1a6dd9678b0ede52250daf275c5ff840de0ee55c4628509b48ec5b932890031be3c67b8#rd)
 
 #### [\[\[已推送\]视频画面帧的展示控件SurfaceView及TextureView对比\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484652&idx=1&sn=3cae1ac74a02b161a1f0d7e975edae3e&chksm=eae1f1bedd9678a8a98f1dfe3e079d559d744212ee45cf14add53549fd928f908fff7620ded9#rd)
 
